@@ -1,0 +1,7 @@
+.remote {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 40vh;
+    background-color: #5899e9;
+}
